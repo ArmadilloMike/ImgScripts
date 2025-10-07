@@ -1,6 +1,6 @@
 # ImgScripts
 
-A collection of scripts for image processing and manipulation.
+A collection of scripts for imgflip
 
 ## Getting Started
 
