@@ -47,8 +47,9 @@ source venv/bin/activate
 This project uses pydoll-python and faker libraries
 
 ```sh
-pip install -m pydoll-python
-pip install -m faker
+pip install pydoll-python
+pip install faker
+pip install imgbyte
 ```
 
 
